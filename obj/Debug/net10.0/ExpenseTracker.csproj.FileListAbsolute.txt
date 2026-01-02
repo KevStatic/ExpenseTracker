@@ -1,0 +1,14 @@
+/Users/kev/L&TFiles/ExpenseTracker/bin/Debug/net10.0/ExpenseTracker
+/Users/kev/L&TFiles/ExpenseTracker/bin/Debug/net10.0/ExpenseTracker.deps.json
+/Users/kev/L&TFiles/ExpenseTracker/bin/Debug/net10.0/ExpenseTracker.runtimeconfig.json
+/Users/kev/L&TFiles/ExpenseTracker/bin/Debug/net10.0/ExpenseTracker.dll
+/Users/kev/L&TFiles/ExpenseTracker/bin/Debug/net10.0/ExpenseTracker.pdb
+/Users/kev/L&TFiles/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kev/L&TFiles/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.AssemblyInfoInputs.cache
+/Users/kev/L&TFiles/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.AssemblyInfo.cs
+/Users/kev/L&TFiles/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.csproj.CoreCompileInputs.cache
+/Users/kev/L&TFiles/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.dll
+/Users/kev/L&TFiles/ExpenseTracker/obj/Debug/net10.0/refint/ExpenseTracker.dll
+/Users/kev/L&TFiles/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.pdb
+/Users/kev/L&TFiles/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.genruntimeconfig.cache
+/Users/kev/L&TFiles/ExpenseTracker/obj/Debug/net10.0/ref/ExpenseTracker.dll
